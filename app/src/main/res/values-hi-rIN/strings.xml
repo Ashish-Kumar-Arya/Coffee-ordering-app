@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"> xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"
+    <string name="app_name">Just Java</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="thank_you">" धन्यवाद"</string>
+    <string name="whipped_cream">व्हीप्ड क्रीम</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="name">" नाम"</string>
+    <string name="quantity">" मात्रा"</string>n
+    <string name="order">ऑर्डर</string>
+    <string name="add_whipped_cream">"व्हीप्ड क्रीम डालें? "</string>
+    <string name="add_chocolate">" चॉकलेट  डालें? "</string>
+    <string name="total">कुल: ₹</string>
+    <string name="quantity2">" मात्रा: "</string>
+    <string name="order_summary_name">नाम: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>

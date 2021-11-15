@@ -1,0 +1,41 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"> xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"
+    <string name="app_name">Just Java</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+
+    <!--
+      Name for the order summary. It will be shown int the format of "Name: Amy" where Amy is the user's name. [CHAR LIMIT=NONE]
+      -->
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <!-- Header text for the whipped cream -->
+    <string name="whipped_cream">Whipped Cream</string>
+
+    <!-- Header text for the chocolate -->
+    <string name="chocolate">Chocolate</string>
+
+    <!-- Header text for the name-->
+    <string name="name">Name</string>
+
+    <!-- Header for quantity-->
+    <string name="quantity">Quantity</string>
+
+    <!-- Header for order button-->
+    <string name="order">Order</string>
+
+    <!-- Add whipped cream or not -->
+    <string name="add_whipped_cream">Add Whipped cream? </string>
+
+    <!-- Add chocolate or not -->
+    <string name="add_chocolate">Add Chocolate? </string>
+
+    <!-- total amount -->
+    <string name="total">Total: ₹</string>
+
+    <!-- It show the quantity in mail -->
+    <string name="quantity2">Quantity: </string>
+</resources>
